@@ -1,0 +1,19 @@
+{
+  "name": "validators-for-reusable",
+  "version": "1.0.0",
+  "description": "This is Used for Resuable validations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subash-2/Validators-for-reusable.git"
+  },
+  "author": "subash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subash-2/Validators-for-reusable/issues"
+  },
+  "homepage": "https://github.com/Subash-2/Validators-for-reusable#readme"
+}
